@@ -71,7 +71,7 @@ const UserChooseCards = ({ isChoosingCards, setPlayerHand, numberCards, cards, s
   return (
     <>
       {isPopupVisible && (
-        <Popup title="Choose your cards" isOpen={isPopupVisible} canClose={false}>
+        <Popup title="Choisissez vos cartes" isOpen={isPopupVisible} canClose={false}>
           <div>
             <div className="flex  justify-between">
               {handPossibleCards.map((card) => (
@@ -84,18 +84,19 @@ const UserChooseCards = ({ isChoosingCards, setPlayerHand, numberCards, cards, s
               ))}
             </div>
             <p className="text-center mt-5">
-              {selectedCards.length}/{numberCards} cards selected
+              {selectedCards.length}/{numberCards} carte(s) sélectionnée(s)
             </p>
             <p className={clsx("text-red-500", { "hidden": selectedCards.length === numberCards })}>
-              {trial < 2 ? "You must select 4 cards" : "You must select 4 cards, last chance"}
+              {trial < 2 ? "Vous devez sélectionner 4 cartes" : "Vous devez sélectionner 4 cartes"}
             </p>
             {trial < 2 && (
               <button onClick={handleReloadDeck} className="bg-orange-500 text-white rounded-lg p-2"
-              >Reload Deck</button>
+              >Recharger le deck
+              </button>
             )}
             {selectedCards.length === numberCards && (
               <button onClick={handleConfirmSelection} className="bg-green-500 text-white rounded-lg p-2"
-              >Confirm Selection</button>
+              >Confirmer la sélection </button>
             )}
           </div>
         </Popup >
