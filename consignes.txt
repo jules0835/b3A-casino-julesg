@@ -1,0 +1,16 @@
+Simple poker :
+Le jeu de 32 cartes du 7 à l'As
+Une main comprendra 4 cartes
+Seules les annonces suivantes sont comptabilisées :
+carré, brelan, 
+
+j'affiche la main de l'ordinateur et du joueur parmis le jeu de 32 cartes (8 points)
+
+L'utilisateur est informé du résultat de la partie (en mentionnant les annonces de la carte forte) (14 points)
+
+l'affcihage se fait carte par carte (16 points)
+
+Le joueur a 3 tours de jeu. Il peut bloquer des cartes. A chaque tour les cartes non bloquees sont remplacées (16 points)
+
+Mon bonus : 
+ajouter un historique des parties

@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Roulette",
+    "image": "./images/games/roulette.png",
+    "description": "Le jeu de la roulette est un jeu de hasard dans le quel chaque joueur, assis autour d'une table de jeu, mise sur un ou plusieurs numéros, une couleur, la hauteur ou la parité du numéro qu'il espère être tiré. Le tirage du numéro s'effectue à l'aide d'une bille jetée dans un récipient circulaire tournant et muni d'encoches ayant des numéros de différentes couleurs.",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "animation": "./images/games/roulette.gif",
+    "url": "/roulette"
+  },
+  {
+    "id": 2,
+    "name": "Blackjack",
+    "image": "./images/games/blackjack.png",
+    "description": "Le blackjack est un jeu de cartes très populaire dans les casinos. Le but du jeu est de battre le croupier en obtenant un total de points supérieur à celui-ci sans dépasser 21. Le jeu se joue avec un ou plusieurs jeux de 52 cartes.",
+    "minPlayers": 1,
+    "maxPlayers": 7,
+    "animation": "./images/games/blackjack.gif",
+    "url": "/blackjack"
+  },
+  {
+    "id": 3,
+    "name": "Simple Poker",
+    "image": "./images/games/poker.png",
+    "description": "Le poker est un jeu de cartes qui se joue avec des jetons ou des espèces. Il existe de nombreuses variantes de poker, mais toutes suivent le même principe : les joueurs misent sur la valeur de leur main. Le joueur qui a la meilleure main remporte la mise.",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "animation": "./images/games/poker.gif",
+    "url": "/poker",
+    "instructions": "Le jeu utilise un jeu de 32 cartes, allant du 7 à l'As. Chaque joueur reçoit une main de 4 cartes. Seules les annonces suivantes sont comptabilisées : Carré (quatre cartes de même valeur), Brelan (trois cartes de même valeur), Double Paire (deux paires de cartes de même valeur) et Paire (deux cartes de même valeur). Si un joueur possède une annonce plus forte, il gagne la partie. En cas d’annonces similaires, les cartes restantes ne sont pas prises en compte. Si aucune annonce n’est possible, la carte la plus forte dans la main détermine le gagnant. Le joueur dispose de 3 tours pour améliorer sa main. À chaque tour, il peut choisir de bloquer certaines cartes pour les conserver, tandis que les cartes non bloquées sont remplacées. À la fin des trois tours, le joueur est informé du résultat, avec l’annonce gagnante ou la carte forte déterminante. Amusez-vous bien et bonne chance !"
+  },
+  {
+    "id": 4,
+    "name": "Slot Machine",
+    "image": "./images/games/slotmachine.png",
+    "description": "Les machines à sous sont des jeux de hasard très populaires dans les casinos. Le but du jeu est de faire tourner les rouleaux et d'obtenir une combinaison gagnante. Les gains sont déterminés par la combinaison obtenue.",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "animation": "./images/games/slotmachine.gif",
+    "url": "/slot-machine"
+  }
+]
