@@ -14,3 +14,6 @@ Le joueur a 3 tours de jeu. Il peut bloquer des cartes. A chaque tour les cartes
 
 Mon bonus : 
 ajouter un historique des parties
+
+
+Lors du tirage il peut tirer 3 fois, il peut cliquer sur une carte pour la garder si il le souhaite et au duxieme tirage il aura seulemnt 3 carte a reprendre

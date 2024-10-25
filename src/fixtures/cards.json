@@ -3,324 +3,416 @@
     "id": 1,
     "nom": "Deux de Trèfle",
     "description": "Carte représentant le chiffre deux de la famille des Trèfles.",
-    "image": "2_of_clubs.png"
+    "image": "2_of_clubs.png",
+    "type": "2",
+    "valeur": 2
   },
   {
     "id": 2,
     "nom": "Deux de Carreau",
     "description": "Carte représentant le chiffre deux de la famille des Carreaux.",
-    "image": "2_of_diamonds.png"
+    "image": "2_of_diamonds.png",
+    "type": "2",
+    "valeur": 2
   },
   {
     "id": 3,
     "nom": "Deux de Cœur",
     "description": "Carte représentant le chiffre deux de la famille des Cœurs.",
-    "image": "2_of_hearts.png"
+    "image": "2_of_hearts.png",
+    "type": "2",
+    "valeur": 2
   },
   {
     "id": 4,
     "nom": "Deux de Pique",
     "description": "Carte représentant le chiffre deux de la famille des Piques.",
-    "image": "2_of_spades.png"
+    "image": "2_of_spades.png",
+    "type": "2",
+    "valeur": 2
   },
   {
     "id": 5,
     "nom": "Trois de Trèfle",
     "description": "Carte représentant le chiffre trois de la famille des Trèfles.",
-    "image": "3_of_clubs.png"
+    "image": "3_of_clubs.png",
+    "type": "3",
+    "valeur": 3
   },
   {
     "id": 6,
     "nom": "Trois de Carreau",
     "description": "Carte représentant le chiffre trois de la famille des Carreaux.",
-    "image": "3_of_diamonds.png"
+    "image": "3_of_diamonds.png",
+    "type": "3",
+    "valeur": 3
   },
   {
     "id": 7,
     "nom": "Trois de Cœur",
     "description": "Carte représentant le chiffre trois de la famille des Cœurs.",
-    "image": "3_of_hearts.png"
+    "image": "3_of_hearts.png",
+    "type": "3",
+    "valeur": 3
   },
   {
     "id": 8,
     "nom": "Trois de Pique",
     "description": "Carte représentant le chiffre trois de la famille des Piques.",
-    "image": "3_of_spades.png"
+    "image": "3_of_spades.png",
+    "type": "3",
+    "valeur": 3
   },
   {
     "id": 9,
     "nom": "Quatre de Trèfle",
     "description": "Carte représentant le chiffre quatre de la famille des Trèfles.",
-    "image": "4_of_clubs.png"
+    "image": "4_of_clubs.png",
+    "type": "4",
+    "valeur": 4
   },
   {
     "id": 10,
     "nom": "Quatre de Carreau",
     "description": "Carte représentant le chiffre quatre de la famille des Carreaux.",
-    "image": "4_of_diamonds.png"
+    "image": "4_of_diamonds.png",
+    "type": "4",
+    "valeur": 4
   },
   {
     "id": 11,
     "nom": "Quatre de Cœur",
     "description": "Carte représentant le chiffre quatre de la famille des Cœurs.",
-    "image": "4_of_hearts.png"
+    "image": "4_of_hearts.png",
+    "type": "4",
+    "valeur": 4
   },
   {
     "id": 12,
     "nom": "Quatre de Pique",
     "description": "Carte représentant le chiffre quatre de la famille des Piques.",
-    "image": "4_of_spades.png"
+    "image": "4_of_spades.png",
+    "type": "4",
+    "valeur": 4
   },
   {
     "id": 13,
     "nom": "Cinq de Trèfle",
     "description": "Carte représentant le chiffre cinq de la famille des Trèfles.",
-    "image": "5_of_clubs.png"
+    "image": "5_of_clubs.png",
+    "type": "5",
+    "valeur": 5
   },
   {
     "id": 14,
     "nom": "Cinq de Carreau",
     "description": "Carte représentant le chiffre cinq de la famille des Carreaux.",
-    "image": "5_of_diamonds.png"
+    "image": "5_of_diamonds.png",
+    "type": "5",
+    "valeur": 5
   },
   {
     "id": 15,
     "nom": "Cinq de Cœur",
     "description": "Carte représentant le chiffre cinq de la famille des Cœurs.",
-    "image": "5_of_hearts.png"
+    "image": "5_of_hearts.png",
+    "type": "5",
+    "valeur": 5
   },
   {
     "id": 16,
     "nom": "Cinq de Pique",
     "description": "Carte représentant le chiffre cinq de la famille des Piques.",
-    "image": "5_of_spades.png"
+    "image": "5_of_spades.png",
+    "type": "5",
+    "valeur": 5
   },
   {
     "id": 17,
     "nom": "Six de Trèfle",
     "description": "Carte représentant le chiffre six de la famille des Trèfles.",
-    "image": "6_of_clubs.png"
+    "image": "6_of_clubs.png",
+    "type": "6",
+    "valeur": 6
   },
   {
     "id": 18,
     "nom": "Six de Carreau",
     "description": "Carte représentant le chiffre six de la famille des Carreaux.",
-    "image": "6_of_diamonds.png"
+    "image": "6_of_diamonds.png",
+    "type": "6",
+    "valeur": 6
   },
   {
     "id": 19,
     "nom": "Six de Cœur",
     "description": "Carte représentant le chiffre six de la famille des Cœurs.",
-    "image": "6_of_hearts.png"
+    "image": "6_of_hearts.png",
+    "type": "6",
+    "valeur": 6
   },
   {
     "id": 20,
     "nom": "Six de Pique",
     "description": "Carte représentant le chiffre six de la famille des Piques.",
-    "image": "6_of_spades.png"
+    "image": "6_of_spades.png",
+    "type": "6",
+    "valeur": 6
   },
   {
     "id": 21,
     "nom": "Sept de Trèfle",
     "description": "Carte représentant le chiffre sept de la famille des Trèfles.",
-    "image": "7_of_clubs.png"
+    "image": "7_of_clubs.png",
+    "type": "7",
+    "valeur": 7
   },
   {
     "id": 22,
     "nom": "Sept de Carreau",
     "description": "Carte représentant le chiffre sept de la famille des Carreaux.",
-    "image": "7_of_diamonds.png"
+    "image": "7_of_diamonds.png",
+    "type": "7",
+    "valeur": 7
   },
   {
     "id": 23,
     "nom": "Sept de Cœur",
     "description": "Carte représentant le chiffre sept de la famille des Cœurs.",
-    "image": "7_of_hearts.png"
+    "image": "7_of_hearts.png",
+    "type": "7",
+    "valeur": 7
   },
   {
     "id": 24,
     "nom": "Sept de Pique",
     "description": "Carte représentant le chiffre sept de la famille des Piques.",
-    "image": "7_of_spades.png"
+    "image": "7_of_spades.png",
+    "type": "7",
+    "valeur": 7
   },
   {
     "id": 25,
     "nom": "Huit de Trèfle",
     "description": "Carte représentant le chiffre huit de la famille des Trèfles.",
-    "image": "8_of_clubs.png"
+    "image": "8_of_clubs.png",
+    "type": "8",
+    "valeur": 8
   },
   {
     "id": 26,
     "nom": "Huit de Carreau",
     "description": "Carte représentant le chiffre huit de la famille des Carreaux.",
-    "image": "8_of_diamonds.png"
+    "image": "8_of_diamonds.png",
+    "type": "8",
+    "valeur": 8
   },
   {
     "id": 27,
     "nom": "Huit de Cœur",
     "description": "Carte représentant le chiffre huit de la famille des Cœurs.",
-    "image": "8_of_hearts.png"
+    "image": "8_of_hearts.png",
+    "type": "8",
+    "valeur": 8
   },
   {
     "id": 28,
     "nom": "Huit de Pique",
     "description": "Carte représentant le chiffre huit de la famille des Piques.",
-    "image": "8_of_spades.png"
+    "image": "8_of_spades.png",
+    "type": "8",
+    "valeur": 8
   },
   {
     "id": 29,
     "nom": "Neuf de Trèfle",
     "description": "Carte représentant le chiffre neuf de la famille des Trèfles.",
-    "image": "9_of_clubs.png"
+    "image": "9_of_clubs.png",
+    "type": "9",
+    "valeur": 9
   },
   {
     "id": 30,
     "nom": "Neuf de Carreau",
     "description": "Carte représentant le chiffre neuf de la famille des Carreaux.",
-    "image": "9_of_diamonds.png"
+    "image": "9_of_diamonds.png",
+    "type": "9",
+    "valeur": 9
   },
   {
     "id": 31,
     "nom": "Neuf de Cœur",
     "description": "Carte représentant le chiffre neuf de la famille des Cœurs.",
-    "image": "9_of_hearts.png"
+    "image": "9_of_hearts.png",
+    "type": "9",
+    "valeur": 9
   },
   {
     "id": 32,
     "nom": "Neuf de Pique",
     "description": "Carte représentant le chiffre neuf de la famille des Piques.",
-    "image": "9_of_spades.png"
+    "image": "9_of_spades.png",
+    "type": "9",
+    "valeur": 9
   },
   {
     "id": 33,
     "nom": "Dix de Trèfle",
     "description": "Carte représentant le chiffre dix de la famille des Trèfles.",
-    "image": "10_of_clubs.png"
+    "image": "10_of_clubs.png",
+    "type": "10",
+    "valeur": 10
   },
   {
     "id": 34,
     "nom": "Dix de Carreau",
     "description": "Carte représentant le chiffre dix de la famille des Carreaux.",
-    "image": "10_of_diamonds.png"
+    "image": "10_of_diamonds.png",
+    "type": "10",
+    "valeur": 10
   },
   {
     "id": 35,
     "nom": "Dix de Cœur",
     "description": "Carte représentant le chiffre dix de la famille des Cœurs.",
-    "image": "10_of_hearts.png"
+    "image": "10_of_hearts.png",
+    "type": "10",
+    "valeur": 10
   },
   {
     "id": 36,
     "nom": "Dix de Pique",
     "description": "Carte représentant le chiffre dix de la famille des Piques.",
-    "image": "10_of_spades.png"
+    "image": "10_of_spades.png",
+    "type": "10",
+    "valeur": 10
   },
   {
     "id": 37,
     "nom": "Valet de Trèfle",
-    "description": "Carte représentant un valet de la famille des Trèfles.",
-    "image": "jack_of_clubs.png"
+    "description": "Carte représentant le Valet de la famille des Trèfles.",
+    "image": "jack_of_clubs.png",
+    "type": "Valet",
+    "valeur": 11
   },
   {
     "id": 38,
     "nom": "Valet de Carreau",
-    "description": "Carte représentant un valet de la famille des Carreaux.",
-    "image": "jack_of_diamonds.png"
+    "description": "Carte représentant le Valet de la famille des Carreaux.",
+    "image": "jack_of_diamonds.png",
+    "type": "Valet",
+    "valeur": 11
   },
   {
     "id": 39,
     "nom": "Valet de Cœur",
-    "description": "Carte représentant un valet de la famille des Cœurs.",
-    "image": "jack_of_hearts.png"
+    "description": "Carte représentant le Valet de la famille des Cœurs.",
+    "image": "jack_of_hearts.png",
+    "type": "Valet",
+    "valeur": 11
   },
   {
     "id": 40,
     "nom": "Valet de Pique",
-    "description": "Carte représentant un valet de la famille des Piques.",
-    "image": "jack_of_spades.png"
+    "description": "Carte représentant le Valet de la famille des Piques.",
+    "image": "jack_of_spades.png",
+    "type": "Valet",
+    "valeur": 11
   },
   {
     "id": 41,
     "nom": "Dame de Trèfle",
-    "description": "Carte représentant une dame de la famille des Trèfles.",
-    "image": "queen_of_clubs.png"
+    "description": "Carte représentant la Dame de la famille des Trèfles.",
+    "image": "queen_of_clubs.png",
+    "type": "Dame",
+    "valeur": 12
   },
   {
     "id": 42,
     "nom": "Dame de Carreau",
-    "description": "Carte représentant une dame de la famille des Carreaux.",
-    "image": "queen_of_diamonds.png"
+    "description": "Carte représentant la Dame de la famille des Carreaux.",
+    "image": "queen_of_diamonds.png",
+    "type": "Dame",
+    "valeur": 12
   },
   {
     "id": 43,
     "nom": "Dame de Cœur",
-    "description": "Carte représentant une dame de la famille des Cœurs.",
-    "image": "queen_of_hearts.png"
+    "description": "Carte représentant la Dame de la famille des Cœurs.",
+    "image": "queen_of_hearts.png",
+    "type": "Dame",
+    "valeur": 12
   },
   {
     "id": 44,
     "nom": "Dame de Pique",
-    "description": "Carte représentant une dame de la famille des Piques.",
-    "image": "queen_of_spades.png"
+    "description": "Carte représentant la Dame de la famille des Piques.",
+    "image": "queen_of_spades.png",
+    "type": "Dame",
+    "valeur": 12
   },
   {
     "id": 45,
     "nom": "Roi de Trèfle",
-    "description": "Carte représentant un roi de la famille des Trèfles.",
-    "image": "king_of_clubs.png"
+    "description": "Carte représentant le Roi de la famille des Trèfles.",
+    "image": "king_of_clubs.png",
+    "type": "Roi",
+    "valeur": 13
   },
   {
     "id": 46,
     "nom": "Roi de Carreau",
-    "description": "Carte représentant un roi de la famille des Carreaux.",
-    "image": "king_of_diamonds.png"
+    "description": "Carte représentant le Roi de la famille des Carreaux.",
+    "image": "king_of_diamonds.png",
+    "type": "Roi",
+    "valeur": 13
   },
   {
     "id": 47,
     "nom": "Roi de Cœur",
-    "description": "Carte représentant un roi de la famille des Cœurs.",
-    "image": "king_of_hearts.png"
+    "description": "Carte représentant le Roi de la famille des Cœurs.",
+    "image": "king_of_hearts.png",
+    "type": "Roi",
+    "valeur": 13
   },
   {
     "id": 48,
     "nom": "Roi de Pique",
-    "description": "Carte représentant un roi de la famille des Piques.",
-    "image": "king_of_spades.png"
+    "description": "Carte représentant le Roi de la famille des Piques.",
+    "image": "king_of_spades.png",
+    "type": "Roi",
+    "valeur": 13
   },
   {
     "id": 49,
     "nom": "As de Trèfle",
-    "description": "Carte représentant un as de la famille des Trèfles.",
-    "image": "ace_of_clubs.png"
+    "description": "Carte représentant l'As de la famille des Trèfles.",
+    "image": "ace_of_clubs.png",
+    "type": "As",
+    "valeur": 14
   },
   {
     "id": 50,
     "nom": "As de Carreau",
-    "description": "Carte représentant un as de la famille des Carreaux.",
-    "image": "ace_of_diamonds.png"
+    "description": "Carte représentant l'As de la famille des Carreaux.",
+    "image": "ace_of_diamonds.png",
+    "type": "As",
+    "valeur": 14
   },
   {
     "id": 51,
     "nom": "As de Cœur",
-    "description": "Carte représentant un as de la famille des Cœurs.",
-    "image": "ace_of_hearts.png"
+    "description": "Carte représentant l'As de la famille des Cœurs.",
+    "image": "ace_of_hearts.png",
+    "type": "As",
+    "valeur": 14
   },
   {
     "id": 52,
     "nom": "As de Pique",
-    "description": "Carte représentant un as de la famille des Piques.",
-    "image": "ace_of_spades.png"
-  },
-  {
-    "id": 53,
-    "nom": "Joker Noir",
-    "description": "Carte joker de couleur noire.",
-    "image": "black_joker.png"
-  },
-  {
-    "id": 54,
-    "nom": "Joker Rouge",
-    "description": "Carte joker de couleur rouge.",
-    "image": "red_joker.png"
+    "description": "Carte représentant l'As de la famille des Piques.",
+    "image": "ace_of_spades.png",
+    "type": "As",
+    "valeur": 14
   }
 ]
