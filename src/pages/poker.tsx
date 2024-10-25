@@ -20,7 +20,8 @@ const Poker = () => {
         </a>
         <div className="slide-up-fade-in mt-32 text-white text-center">
           <h1 className="text-3xl font-bold">
-            Consignes</h1>
+            Consignes
+          </h1>
           <p className="pt-5 text-lg text-justify mx-24">
             {games.find((game) => game.id === 3)?.instructions}
           </p>

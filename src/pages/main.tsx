@@ -27,13 +27,10 @@ const Main = () => {
               <h1 className="text-white text-3xl slide-up-fade-in">
                 Nous vous attendions avec impatience pour vous faire découvrir nos jeux !
               </h1>
-              <div className="slide-up-fade-in">
-                <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-md mt-4">
-                  Découvrir
-                </button>
-                <button className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-md mt-4 ml-4">
-                  Quitter
-                </button>
+              <div className="slide-up-fade-in mt-10">
+                <a href="/poker" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-md ">
+                  Découvrir le poker
+                </a>
               </div>
             </div>
           )}

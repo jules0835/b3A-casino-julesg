@@ -23,7 +23,7 @@ const AgeVerification: React.FC = () => {
   }, []);
 
   const handleResponse = (response: boolean) => {
-    const expirationDate = new Date(new Date().getTime() + 1000000);
+    const expirationDate = new Date(new Date().getTime() + 10000000);
     if (response) {
       Cookies.set('isMajeur', 'true', { expires: expirationDate });
       setIsMajeur(true);
